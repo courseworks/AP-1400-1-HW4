@@ -9,7 +9,7 @@ Advanced Programming - Homework 3
 Dr.Amir Jahanshahi
 </h2>
 <h3>
-Deadline: ,  Azar 14 - 23:59
+Deadline: Sunday,  Azar 14 - 23:59
 </center>
 
 # Inheritance and Polymorphism
