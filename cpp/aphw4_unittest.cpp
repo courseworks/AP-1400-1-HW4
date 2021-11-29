@@ -58,8 +58,8 @@ namespace
         Helen.setParent(&Pam,&Jim);
         Mina.setParent(&Pam,&Jim);
         Cecelia.growingUp("Teacher");//delete from children of parent
-        EXPECT_EQ(Jim.children[0]->first_name,"Mina");
-        EXPECT_EQ(Pam.children[1]->first_name,"Helen");
+        EXPECT_EQ(Jim.children[0]->first_name,"Helen");
+        EXPECT_EQ(Pam.children[1]->first_name,"Mina");
 
     }
 
